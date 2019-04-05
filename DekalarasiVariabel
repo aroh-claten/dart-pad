@@ -1,0 +1,10 @@
+void main() {
+  // deklarasi integer
+  int num1 = 105;
+  
+  //dekalarasi double
+  double num2 =10.6;
+  
+  print(num1);
+  print(num2);
+}
